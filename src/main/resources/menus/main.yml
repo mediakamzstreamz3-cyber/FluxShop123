@@ -1,0 +1,13 @@
+# Main shop menu (/shop). type: menu = hand-placed buttons.
+type: menu
+title: "<dark_gray>⚓ Shop ¦ Main Menu"
+rows: 4
+back: none
+items:
+  - {slot: 10, material: COBBLESTONE, name: "BLOCKS SHOP", color: "#7CFC00", tag: "SHOP", description: ["Click to open", "the blocks shop."], opens: blocks}
+  - {slot: 11, material: END_STONE_BRICKS, name: "END SHOP", color: "#F0F0A0", tag: "SHOP", description: ["Click to open", "the ender shop."], opens: end}
+  - {slot: 12, material: NETHER_WART_BLOCK, name: "NETHER SHOP", color: "#FF2020", tag: "SHOP", description: ["Click to open", "the nether shop."], opens: nether}
+  - {slot: 13, material: HEAVY_CORE, name: "GEAR SHOP", color: "#3FB8F0", tag: "SHOP", description: ["Click to open", "the gear shop."], opens: gear}
+  - {slot: 14, material: HAY_BLOCK, name: "FOOD SHOP", color: "#FFC020", tag: "SHOP", description: ["Click to open", "the food shop."], opens: food}
+  - {slot: 15, material: TARGET, name: "REDSTONE SHOP", color: "#FF1744", tag: "SHOP", description: ["Click to open", "the redstone shop."], opens: redstone}
+  - {slot: 16, material: SPAWNER, name: "SHARD SHOP", color: "#FF3C8E", tag: "SHOP", description: ["Click to open", "the shard shop."], opens: shard-main}

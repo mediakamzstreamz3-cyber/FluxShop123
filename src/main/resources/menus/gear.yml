@@ -1,0 +1,27 @@
+type: shop
+title: "<dark_gray>⚓ Shop ¦ Gear Menu"
+currency: money
+columns: 7
+back: main
+items:
+  - {material: DIAMOND_HELMET, buy: 15000, enchants: {protection: 4, unbreaking: 3, mending: 1, respiration: 3, aqua_affinity: 1}}
+  - {material: DIAMOND_CHESTPLATE, buy: 25000, enchants: {protection: 4, unbreaking: 3, mending: 1}}
+  - {material: DIAMOND_LEGGINGS, buy: 20000, enchants: {protection: 4, unbreaking: 3, mending: 1}}
+  - {material: DIAMOND_BOOTS, buy: 15000, enchants: {protection: 4, unbreaking: 3, mending: 1, feather_falling: 4, depth_strider: 3}}
+  - {material: DIAMOND_SWORD, buy: 20000, enchants: {sharpness: 5, unbreaking: 3, mending: 1, fire_aspect: 2, looting: 3, sweeping_edge: 3}}
+  - {material: DIAMOND_PICKAXE, buy: 20000, enchants: {efficiency: 5, unbreaking: 3, mending: 1, fortune: 3}}
+  - {material: DIAMOND_AXE, buy: 20000, enchants: {sharpness: 5, efficiency: 5, unbreaking: 3, mending: 1}}
+  - {material: DIAMOND_SHOVEL, buy: 15000, enchants: {efficiency: 5, unbreaking: 3, mending: 1, fortune: 3}}
+  - {material: DIAMOND_HOE, buy: 15000, enchants: {efficiency: 5, unbreaking: 3, mending: 1, fortune: 3}}
+  - {material: DIAMOND_SPEAR, buy: 20000, enchants: {sharpness: 5, unbreaking: 3, mending: 1, looting: 3, lunge: 3}}
+  - {material: TOTEM_OF_UNDYING, buy: 5000, sell: 1250}
+  - {material: ELYTRA, buy: 30000, enchants: {unbreaking: 3, mending: 1}}
+  - {material: ENDER_CHEST, buy: 2500, sell: 625}
+  - {material: FIREWORK_ROCKET, amount: 16, buy: 100, sell: 25}
+  - {material: GOLDEN_APPLE, buy: 800, sell: 200}
+  - {material: OBSIDIAN, buy: 100, sell: 25}
+  - {material: END_CRYSTAL, buy: 1500, sell: 375}
+  - {material: ENDER_PEARL, buy: 100, sell: 25}
+  - {material: RESPAWN_ANCHOR, buy: 1500, sell: 375}
+  - {material: AMETHYST_BLOCK, buy: 200, sell: 50}
+  - {material: POTION, buy: 300, sell: 75, potion: LEAPING}

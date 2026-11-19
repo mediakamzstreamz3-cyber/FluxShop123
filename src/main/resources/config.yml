@@ -1,0 +1,32 @@
+currency-symbol: "$"
+shard-symbol: "◆"
+starting-shards: 0
+
+messages:
+  prefix: "<dark_gray>[<green>Shop</green>]</dark_gray> "
+  bought: "<green>Bought <white>%item%</white> for <white>%price%</white>."
+  sold: "<green>Sold <white>%item%</white> for <white>%price%</white>."
+  not-enough: "<red>You can't afford that. You need <white>%price%</white>."
+  not-for-sale: "<red>That item can't be bought here."
+  not-sellable: "<red>That item can't be sold here."
+  no-items: "<red>You don't have enough of that item to sell."
+  no-economy: "<red>No economy plugin (Vault) found, so money shops are disabled."
+  unknown-menu: "<red>Unknown menu: <white>%menu%"
+  no-permission: "<red>You don't have permission."
+  shards-balance: "<light_purple>%player% has <white>%amount%</white> shards."
+  shards-changed: "<green>%player% now has <white>%amount%</white> shards."
+  reloaded: "<green>DonutShop reloaded."
+
+# Sidebar scoreboard. Placeholders: %player% %money% %shards% %kills% %deaths% %playtime%
+# Set enabled: false if you already use another scoreboard plugin.
+scoreboard:
+  enabled: true
+  interval-ticks: 20
+  title: "<bold><gradient:#ff3c8e:#ff9ac8>YOUR SERVER</gradient></bold>"
+  lines:
+    - "<dark_gray>¦ <gray>Player: <white>%player%"
+    - "<dark_gray>¦ <green>$ <gray>Money: <white>%money%"
+    - "<dark_gray>¦ <light_purple>◆ <gray>Shards: <white>%shards%"
+    - "<dark_gray>¦ <red>⚔ <gray>Kills: <white>%kills%"
+    - "<dark_gray>¦ <gray>Deaths: <white>%deaths%"
+    - "<dark_gray>¦ <yellow>⌚ <gray>Playtime: <white>%playtime%"

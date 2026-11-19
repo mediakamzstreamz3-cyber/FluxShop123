@@ -1,0 +1,8 @@
+type: shop
+title: "<dark_gray>⚓ Shard Shop ¦ Tools Menu"
+currency: shards
+columns: 7
+back: shard-main
+# Add entries here. Prices are in shards. Examples:
+#  - {material: NETHERITE_PICKAXE, buy: 300, enchants: {efficiency: 5, unbreaking: 3, mending: 1}}
+items: []

@@ -1,0 +1,16 @@
+type: shop
+title: "<dark_gray>⚓ Shop ¦ Food Menu"
+currency: money
+columns: 5
+back: main
+items:
+  - {material: COOKED_CHICKEN, buy: 20, sell: 5}
+  - {material: COOKED_PORKCHOP, buy: 25, sell: 6.25}
+  - {material: BAKED_POTATO, buy: 15, sell: 3.75}
+  - {material: GOLDEN_CARROT, buy: 60, sell: 15}
+  - {material: GOLDEN_APPLE, buy: 800, sell: 200}
+  - {material: BREAD, buy: 15, sell: 3.75}
+  - {material: SWEET_BERRIES, buy: 8, sell: 2}
+  - {material: CARROT, buy: 8, sell: 2}
+  - {material: POTATO, buy: 8, sell: 2}
+  - {material: CHICKEN, buy: 10, sell: 2.5}

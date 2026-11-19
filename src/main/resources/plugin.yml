@@ -1,0 +1,24 @@
+name: DonutShop
+main: me.donutshop.DonutShop
+version: 1.0.0
+api-version: '1.21'
+description: DonutSMP-style shop menus, Vault money, shards and a sidebar scoreboard
+softdepend: [Vault]
+commands:
+  shop:
+    description: Open the shop
+    aliases: [shops]
+    usage: /shop [menu|reload]
+  shardshop:
+    description: Open the shard shop
+    aliases: [sshop]
+    usage: /shardshop
+  shards:
+    description: View or manage shards
+    aliases: [shard]
+    usage: /shards [player] | /shards <give|take|set> <player> <amount>
+permissions:
+  donutshop.use:
+    default: true
+  donutshop.admin:
+    default: op

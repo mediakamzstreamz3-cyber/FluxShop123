@@ -1,0 +1,16 @@
+type: shop
+title: "<dark_gray>⚓ Shop ¦ End Menu"
+currency: money
+columns: 5
+back: main
+items:
+  - {material: ENDER_CHEST, buy: 2500, sell: 625}
+  - {material: ENDER_EYE, buy: 150, sell: 37.5}
+  - {material: ENDER_PEARL, buy: 100, sell: 25}
+  - {material: END_STONE, amount: 16, buy: 40, sell: 10}
+  - {material: CHORUS_FRUIT, buy: 25, sell: 6.25}
+  - {material: DRAGON_BREATH, buy: 400, sell: 100}
+  - {material: SHULKER_SHELL, buy: 1500, sell: 375}
+  - {material: POPPED_CHORUS_FRUIT, buy: 30, sell: 7.5}
+  - {material: END_ROD, buy: 50, sell: 12.5}
+  - {material: PURPLE_SHULKER_BOX, buy: 4000, sell: 1000}

@@ -1,0 +1,48 @@
+type: shop
+title: "<dark_gray>⚓ Shop ¦ Redstone Menu"
+currency: money
+columns: 7
+back: main
+items:
+  - {material: REDSTONE, buy: 10, sell: 2.5}
+  - {material: REDSTONE_BLOCK, buy: 90, sell: 22.5}
+  - {material: REDSTONE_TORCH, buy: 12, sell: 3}
+  - {material: REPEATER, buy: 40, sell: 10}
+  - {material: COMPARATOR, buy: 80, sell: 20}
+  - {material: OBSERVER, buy: 120, sell: 30}
+  - {material: TARGET, buy: 60, sell: 15}
+  - {material: PISTON, buy: 80, sell: 20}
+  - {material: STICKY_PISTON, buy: 120, sell: 30}
+  - {material: DISPENSER, buy: 100, sell: 25}
+  - {material: DROPPER, buy: 90, sell: 22.5}
+  - {material: HOPPER, buy: 150, sell: 37.5}
+  - {material: CRAFTER, buy: 200, sell: 50}
+  - {material: NOTE_BLOCK, buy: 40, sell: 10}
+  - {material: RAIL, buy: 20, sell: 5}
+  - {material: POWERED_RAIL, buy: 20, sell: 5}
+  - {material: ACTIVATOR_RAIL, buy: 20, sell: 5}
+  - {material: MINECART, buy: 60, sell: 15}
+  - {material: CHEST, buy: 30, sell: 7.5}
+  - {material: IRON_DOOR, buy: 60, sell: 15}
+  - {material: HEAVY_WEIGHTED_PRESSURE_PLATE, buy: 20, sell: 5}
+  - {material: LEVER, buy: 20, sell: 5}
+  - {material: LIGHT_WEIGHTED_PRESSURE_PLATE, buy: 20, sell: 5}
+  - {material: TRIPWIRE_HOOK, buy: 20, sell: 5}
+  - {material: GLASS, buy: 20, sell: 5}
+  - {material: TINTED_GLASS, buy: 20, sell: 5}
+  - {material: IRON_BARS, buy: 20, sell: 5}
+  - {material: DEEPSLATE_BRICKS, buy: 20, sell: 5}
+  - {material: ICE, buy: 20, sell: 5}
+  - {material: WATER_BUCKET, buy: 20, sell: 5}
+  - {material: MUD, buy: 20, sell: 5}
+  - {material: SLIME_BLOCK, buy: 20, sell: 5}
+  - {material: HONEY_BLOCK, buy: 20, sell: 5}
+  - {material: SCAFFOLDING, buy: 20, sell: 5}
+  - {material: BAMBOO, buy: 20, sell: 5}
+  - {material: OAK_LEAVES, buy: 20, sell: 5}
+  - {material: SMALL_DRIPLEAF, buy: 20, sell: 5}
+  - {material: BIG_DRIPLEAF, buy: 20, sell: 5}
+  - {material: NETHER_WART_BLOCK, buy: 20, sell: 5}
+  - {material: LAPIS_BLOCK, buy: 20, sell: 5}
+  - {material: COAL_BLOCK, buy: 20, sell: 5}
+  - {material: SCULK, buy: 20, sell: 5}

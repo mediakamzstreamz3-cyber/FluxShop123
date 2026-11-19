@@ -1,0 +1,16 @@
+type: shop
+title: "<dark_gray>⚓ Shop ¦ Nether Menu"
+currency: money
+columns: 5
+back: main
+items:
+  - {material: BLAZE_ROD, buy: 120, sell: 30}
+  - {material: NETHER_WART, buy: 30, sell: 7.5}
+  - {material: BLAZE_POWDER, buy: 70, sell: 17.5}
+  - {material: GHAST_TEAR, buy: 500, sell: 125}
+  - {material: MAGMA_CREAM, buy: 60, sell: 15}
+  - {material: QUARTZ, buy: 25, sell: 6.25}
+  - {material: SOUL_SOIL, buy: 15, sell: 3.75}
+  - {material: MAGMA_BLOCK, buy: 25, sell: 6.25}
+  - {material: CRYING_OBSIDIAN, buy: 200, sell: 50}
+  - {material: NETHER_SPROUTS, buy: 10, sell: 2.5}

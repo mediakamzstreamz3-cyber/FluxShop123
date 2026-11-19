@@ -1,0 +1,10 @@
+# Shard shop hub. Shards are bought with the custom shard currency (see /shards).
+type: menu
+title: "<dark_gray>⚓ Shard Shop ¦ Main Menu"
+rows: 5
+back: main
+back-slot: 36
+items:
+  - {slot: 13, material: SPAWNER, name: "SPAWNERS", color: "#FF3C8E", tag: "SHARDS", description: ["Purchase unique spawners", "to grow your economy."], opens: shard-spawners}
+  - {slot: 21, material: TRIPWIRE_HOOK, name: "CRATE KEYS", color: "#2F8CF0", tag: "SHARDS", description: ["Purchase crate keys", "to unlock unique rewards."], opens: shard-keys}
+  - {slot: 22, material: NETHERITE_PICKAXE, name: "TOOLS", color: "#FF1010", tag: "SHARDS", description: ["Purchase useful tools", "to help you progress."], opens: shard-tools}
